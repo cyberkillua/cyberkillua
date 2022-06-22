@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/moshood-alimi-413869199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moshood-alimi-413869199/" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=cyberkillua&theme=dracula&hide_border=true" alt="cyberkillua" /></p>
+
 
 
 
@@ -26,3 +26,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberkillua&show_icons=true&locale=en&layout=compact" alt="cyberkillua" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberkillua&" alt="cyberkillua" /></p>
+
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=cyberkillua&theme=dracula&hide_border=true" alt="cyberkillua" /></p>
