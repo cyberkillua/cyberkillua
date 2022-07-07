@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **About Databases and Algorithms**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at www.moshood.xyz
 
 - 💬 Ask me about **JavaScript**
 
