@@ -1,4 +1,4 @@
-Hello there! My name is Moshood and I'm a back-end developer at [MaterialsPro](https://www.materialspro.ng/) where I'm maintaining our APIs for our B2B customers to buy, sell and deliver hight volumes of construction materials. 
+Hello there! My name is Moshood and I'm a back-end developer at [MaterialsPro](https://www.materialspro.ng/) where I'm maintaining our APIs for our B2B customers to buy, sell and deliver high volumes of construction materials. 
 
 
 
