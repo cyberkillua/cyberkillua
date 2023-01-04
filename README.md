@@ -5,7 +5,7 @@ Hello there! My name is Moshood and I'm a back-end developer at [MaterialsPro](h
 ## Meta
 * Currently reading — You don't know JS
 * Currently writing — [Killua Blog](https://medium.com/@moshood988), my personal blog writing about problems i find intresting in my daily job. 
-* Currently learning — Svelte, GSAP
+* Currently learning — Photoshop, GSAP
 * Wanna reach out? Check out my portfolio at [moshood.xyz](www.moshood.xyz) and in the mailspace as `moshood988@gmail.com`
 * Pronouns: he/him
 
