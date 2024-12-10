@@ -6,7 +6,7 @@ Hello there! My name is Moshood and I'm a back-end developer at [MaterialsPro](h
 * Currently writing — [Killua Blog](https://medium.com/@moshood988), my blog is about problems I find interesting in my daily job. 
 * Currently learning — DSAs
 * Wanna reach out? Check out my portfolio at [moshood.xyz](www.moshood.xyz) and in the mailspace as `moshood988@gmail.com`
-* Pronouns: he/him
+
 
 ## Favorite Tools
 * PostgreSQL
